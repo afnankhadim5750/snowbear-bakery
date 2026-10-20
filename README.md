@@ -1,6 +1,6 @@
 # Snowbear Bakery
 
-Demo website concept for **Snowbear Bakery** — Vancouver, Canada.
+Demo website concept for **Snowbear Bakery** — Vancouver, BC.
 
 Live preview: https://snowbear-bakery-mockup.netlify.app
 
